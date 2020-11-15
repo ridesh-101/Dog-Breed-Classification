@@ -1,7 +1,7 @@
 # Dog-Breed-Classification
 
 Identifying the breed of a dog using Multiclass Image Classification. 
-The data used here is from Kaggle's "Dog Breed Identification" competition. https://www.kaggle.com/c/dog-breed-identification/data.
+The data used here is from Kaggle's "Dog Breed Identification" competition: https://www.kaggle.com/c/dog-breed-identification/data.
 Deep Learning and Transfer Learning are used as the entire dataset are images(Unstructured Data)....
 
 There are 120 breeds of dogs (so 120 different classes).
